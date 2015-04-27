@@ -21,10 +21,10 @@ define( 'AUTOSAVE_INTERVAL', 3600 ); // Default is 60
 define('DB_NAME', 'fenjoon');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'fenjoon');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'fenjoon');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
